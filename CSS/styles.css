@@ -390,7 +390,7 @@ header nav a {
 /*==========================   About Us   ==========================*/
 
 .about {
-    background-image: url(/Resources/Images/bluescope-wave.jpeg);
+    background-image: url(/Images/bluescope-wave.jpeg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
